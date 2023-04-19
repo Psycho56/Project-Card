@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: linear-gradient(90deg, #48FE87, #44FFAE, #3FFEEE, #6EBFB9, #968D88, #968D88, #E42423);
+}
+
+* {
+  box-sizing: border-box;
+}/*# sourceMappingURL=main.css.map */
