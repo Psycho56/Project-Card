@@ -17,6 +17,7 @@ body{
     background-color: #000;
     border: 1px solid white;
     transition: .3s;
+    margin: 20px;
 }
 .button:hover{
     background-color: #fff;
